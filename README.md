@@ -47,6 +47,3 @@ As the astronaut wandered through the Martian valleys, strange symbols began to 
 ## Notes
 - Ensure you have a valid OpenAI API key before running the script.
 - Modify the `max_tokens` parameter for longer or shorter stories.
-
-## License
-This project is open-source and free to use for educational and personal purposes.
